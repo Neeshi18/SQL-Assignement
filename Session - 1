@@ -1,0 +1,7 @@
+Create database music_streaming_db;
+CREATE database food_delivery_db;
+# Differences Between MySQL and PostgreSQL
+# MySQL : Faster for simple web applications and read-heavy workloads. : Supports basic SQL features and is easy to learn. : Best suited for websites, blogs, e-commerce platforms, and content management systems.
+# PostgreSQL : Better for complex queries and analytical workloads. : Supports advanced SQL features such as window functions, Common Table Expressions (CTEs), JSONB, and custom data types. : Best suited for enterprise applications, financial systems, GIS, and data analytics.
+# Popular Companies Using MySQL : Youtube , Facebook , Wordpress
+# Popular Companies Using PostgreSQL : Instragarm , Reddit , Openstreetmap
